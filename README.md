@@ -3,7 +3,7 @@
  LUDO GAME IN PYTHON
 
 # Ludo game 
-Ludo game is a simple made using CLI-game.
+Ludo game is a simple game made using CLI-game.
 
 ## Getting Started
 ---
